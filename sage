@@ -1,0 +1,35 @@
+[33mcommit 0973ab7fcf8f38b16db5811bb9fe80b1243e4fac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sergey <syn@inbox.ru>
+Date:   Wed Aug 2 12:10:50 2023 +0500
+
+    message
+
+[33mcommit 6970eb5385ce282e9a90349e64244a180bb18216[m[33m ([m[1;32mvetka2[m[33m)[m
+Author: Sergey <syn@inbox.ru>
+Date:   Fri Jul 28 00:42:23 2023 +0500
+
+    добавили нумерованные списки
+
+[33mcommit f1000effd229dba99687adbe63c3791709e1ed84[m
+Author: Sergey <syn@inbox.ru>
+Date:   Fri Jul 28 00:37:18 2023 +0500
+
+    добавили ненумерованные списки
+
+[33mcommit 659872c3c8f5e7382bb6815bb87f4d4d5951e80f[m
+Author: Sergey <syn@inbox.ru>
+Date:   Fri Jul 28 00:21:53 2023 +0500
+
+    Добавили выделение полужирным
+
+[33mcommit 8cc1d9f1aed742793b0bacc5138d56b95606bd97[m
+Author: Sergey <syn@inbox.ru>
+Date:   Thu Jul 27 23:19:32 2023 +0500
+
+    Добавили новую строку
+
+[33mcommit 2bd8bf458e635408ca8b2d31db113c9aea6780ea[m
+Author: Sergey <syn@inbox.ru>
+Date:   Thu Jul 27 23:05:58 2023 +0500
+
+    Create new file
